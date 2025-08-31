@@ -1,5 +1,4 @@
 # AI Interview Mocker
-
 Welcome to AI Interview Mocker, an AI-powered platform designed to help you master job interviews. This README provides a detailed overview of the project, including setup instructions, features, and usage guidelines.
 
 ## Project Link
